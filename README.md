@@ -4,6 +4,14 @@
 
 
 
-文件夹“2”包含书中第二章的算法代码
+<h2>Introduction</h2>
 
-文件夹“dataset”是使用到的数据集
+File "2" includes the code of chapter two
+
+The folder "dataset" is the dataset used
+
+
+
+<h2>Requirement</h2>
+
+python 3.7
