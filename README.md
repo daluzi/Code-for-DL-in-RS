@@ -15,3 +15,10 @@ The folder "dataset" is the dataset used
 <h2>Requirement</h2>
 
 python 3.7
+
+
+
+<h2>Reference</h2>
+
+[推荐系统之itemCF](https://blog.csdn.net/weixin_38526306/article/details/86662344)
+
