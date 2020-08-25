@@ -22,3 +22,4 @@ python 3.7
 
 [推荐系统之itemCF](https://blog.csdn.net/weixin_38526306/article/details/86662344)
 
+[pyspark的安装配置](https://www.cnblogs.com/wuzaipei/p/10971878.html)
